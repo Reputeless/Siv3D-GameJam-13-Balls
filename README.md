@@ -12,4 +12,4 @@ https://github.com/Reputeless/Siv3D-GameJam-13-Balls/blob/master/Balls.zip?raw=t
 
 #### スクリーンショット
 
-![スクリーンショット](ss.gif "スクリーンショット")
+![スクリーンショット](ss.jpg "スクリーンショット")
