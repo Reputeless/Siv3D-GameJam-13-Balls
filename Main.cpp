@@ -1,4 +1,4 @@
-﻿# include <Siv3D.hpp>
+﻿# include <Siv3D.hpp> // Siv3D August 2016
 
 struct Grass
 {
