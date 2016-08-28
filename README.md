@@ -1,4 +1,4 @@
-# 11x11x11 Blocks
+# Balls
 第 13 回 Siv3D Game Jam (テーマ「草」) 参加作品
 
 #### 作者  
