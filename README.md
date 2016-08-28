@@ -4,6 +4,9 @@
 #### 作者  
 Reputeless (https://twitter.com/Reputeless)
 
+#### 音声データ
+DSP Anime で作成
+
 #### 実行ファイルダウンロード
 https://github.com/Reputeless/Siv3D-GameJam-13-Balls/blob/master/Balls.zip?raw=true
 
